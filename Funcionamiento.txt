@@ -1,0 +1,7 @@
+El codigo define las clases de busqueda para 4 marketplace distintos
+dentro de cada clase se le solicita al usuario un producto a buscar
+se localiza la barra de busqueda de cada uno de los marketplace y se ingresa el producto a consultar
+luego de realizada la busqueda se localiza el sistema de calidad del producto de cada marketplace
+se indica que se organice de dicha forma, luego se localiza el filtro para organizar los productos de menor a mayor precio
+al tener estos dos filtros aplicados, se procede a guardar los datos y links directos de los 3 primeros productos, e introducirlos a un archivo de excel
+se tiene definida una clase aparte para realizar el envio de dicho archivo mediante el correo electronico la cual se indica luego de cada busqueda en el menu inicial
